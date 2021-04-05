@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: "Denk One", sans-serif;
   line-height: 1.5;
 }
 
@@ -8,7 +9,17 @@ html {
 }
 
 body {
-
+  display: grid;
+  grid-template-columns: 1fr;
+  margin: 0;
+  padding: 0;
 }
 
-font-family: 'Denk One', sans-serif;
+img {
+  width: 100%
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
