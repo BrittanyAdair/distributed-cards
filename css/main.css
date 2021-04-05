@@ -22,3 +22,21 @@ h1 {
   color: #623b0c;
   padding: 0;
 }
+
+h2 {
+  font-family: "Denk One", sans-serif;
+  color: #623b0c;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+p {
+  font-size: 1rem;
+}
