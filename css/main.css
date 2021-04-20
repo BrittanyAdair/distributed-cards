@@ -30,6 +30,7 @@ h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
   margin: 0;
+  padding: 0 0 .2em;
 }
 
 img {
@@ -49,7 +50,8 @@ ol {
 
 p {
   font-size: 1rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
   margin: 0;
 }
 
