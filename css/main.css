@@ -11,17 +11,19 @@ html {
 
 body {
   margin: 0;
+  padding: 0;
 }
 
 main {
   margin: 1rem;
-  padding-bottom: 1rem;
+  padding: 0;
 }
 
 h1 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
   padding: 0;
+  margin-bottom: 1.5rem;
 }
 
 h2 {
@@ -47,6 +49,8 @@ ol {
 
 p {
   font-size: 1rem;
+  padding-bottom: 2rem;
+  margin: 0;
 }
 
 ol > li {
